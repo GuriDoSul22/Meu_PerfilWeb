@@ -1,0 +1,16 @@
+{
+    "perfil": {
+    "nome": "Nicolas Joaquim de Andrade",
+    "idade": "15 Anos"
+    },
+    "endereco": {
+        "rua": "Rua Euclides de Andrade",
+        "bairro": "Bateias",
+        "cep": "83648-000"
+    },
+    "escolaridade": {
+        "escola": "Ceopa",
+        "curso": "Ds",
+        "conclusao": "2027"
+    }
+}
